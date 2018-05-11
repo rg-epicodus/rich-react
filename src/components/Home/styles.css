@@ -1,0 +1,47 @@
+.wow fadeInLeft {
+  visibility: visible; 
+  animation-duration: 2s; 
+  animation-name: fadeInLeft;
+}
+
+.wow fadeInRight {
+  visibility: visible; 
+  animation-duration: 2s; 
+  animation-name: fadeInRight;
+}
+
+.middle-btn {
+  visibility: visible; 
+  animation-duration: 2s; 
+  animation-name: fadeInUp;
+}
+
+.rl-banner {
+  padding-top: 228px;
+  padding-bottom: 156px;
+}
+
+body {
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  overflow-x: hidden;
+  background: #fff;
+  line-height: 30px;
+}
+
+.rl-banner {
+  position: absolute;
+  top: 5em;
+  left: 20%;
+}
+
+.footer-icon {
+  color: brown;
+  float: right;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  font-size: 2em;
+}
